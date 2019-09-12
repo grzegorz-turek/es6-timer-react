@@ -1,1 +1,1 @@
-ES6 Exercise: Stoper: https://grzegorz-turek.github.io/es6-timer/
+ES6 Exercise: Stoper: https://grzegorz-turek.github.io/es6-timer-react/

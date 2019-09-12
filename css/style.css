@@ -1,0 +1,7 @@
+.controls, .display { display: -ms-flexbox; display: flex; -ms-flex-pack: center; justify-content: center; font-family: Arial, Helvetica, sans-serif; }
+
+.controls { font-size: 60px; }
+
+.controls .button { width: 200px; text-align: center; padding: 20px 0; margin: 20px; border: 3px solid black; border-radius: 15px; text-decoration: none; }
+
+.display { font-size: 180px; }
